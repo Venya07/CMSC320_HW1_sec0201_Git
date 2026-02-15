@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a version control system that tracks changes to our code over time. It allows us to maintain a complete history of our project, collaborate with multiple people without conflicts, and easily undo mistakes. Git also provides backup through remote repositories like GitHub, making our code accessible from anywhere.
