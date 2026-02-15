@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a version control system that tracks changes to our code over time. It allows us to maintain a complete history of our project, collaborate with multiple people without conflicts, and easily undo mistakes. Git also provides backup through remote repositories like GitHub, making our code accessible from anywhere.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to healthcare. For example, hospitals use data science to predict patient readmission rates by analyzing historical patient data, treatment outcomes, and demographic information. This helps healthcare providers identify high-risk patients and provide preventive care, ultimately reducing hospital readmissions and improving patient outcomes.
